@@ -2,9 +2,6 @@
     font-family: 'Anton', sans-serif;
     color: #006600 !important;
 }
-.banner-nutrisima {
-    height: 400px;
-}
 
 .productos {
     margin-bottom: 0 !important; 
@@ -29,8 +26,8 @@
 }
 
 .imagen-circular {
-    width: 200px;
-    height: 200px;
+    width: 180px;
+    height: 180px;
 }
 
 .banner-nutrisima {

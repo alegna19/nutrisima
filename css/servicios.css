@@ -1,0 +1,51 @@
+.banner-servicio {
+  background-image: url("http://images.indianexpress.com/2016/06/vegetable_759_thinkstockphotos-174429248.jpg");
+  background-position: center top;
+  background-size: 100% auto;
+  background-repeat: no-repeat;
+  height: 200px;
+  margin-top: 50px;
+  padding-top: 40px;
+}
+
+.servicio-item {
+    background-image: url(http://www.precrop.com/media/wysiwyg/crop.jpg);
+    margin-top: 5px;
+    margin-bottom: 5px;
+    background-size: cover;
+    background-position: center center;
+}
+
+.service-item-title {
+    font-family: 'Pathway Gothic One', sans-serif;
+    color: white;
+    background-color: rgba(0, 0, 0, 0.5);
+    padding-top: 10px;
+    padding-bottom: 10px;
+    font-size: 40px;
+}
+
+.servicio-item-icon {
+    padding-top: 15px;
+    padding-bottom: 15px;
+}
+
+.service-item-text {
+    font-family: 'Yanone Kaffeesatz', sans-serif;
+    font-size: 18px !important;
+}
+
+.service-item-text-modal {
+    padding: 25px;
+    font-family: 'Yanone Kaffeesatz', sans-serif;
+    font-size: 18px !important;
+}
+
+.servicio-a {
+    text-decoration: none !important;
+}
+
+.modal-header {
+    border-bottom: 0 !important;
+    height: 0px;
+}
